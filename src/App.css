@@ -1,0 +1,18 @@
+.app-container{
+  display: flex;
+  flex-direction: row
+}
+.app-child{
+  padding-top: 0px;
+  flex:1
+}
+.yandex-border{
+  border-left: solid gray;
+  margin-top: 0px;
+}
+.headers-position{
+  padding-left: 5px;
+}
+.info{
+  display: flex;
+}
